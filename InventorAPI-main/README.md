@@ -52,5 +52,7 @@ One noteworthy feature of this project is the ability to remove a selected part 
  
 4. Witness the seamless removal of the selected part from the assembly.
  
-
+## Screenshots
+![Screenshot 1](https://github.com/chiragpandkar7/Inventor-API/blob/main/InventorAPI-main/output1.png)
+![Screenshot 2](https://github.com/chiragpandkar7/Inventor-API/blob/main/InventorAPI-main/output2.png)
 
